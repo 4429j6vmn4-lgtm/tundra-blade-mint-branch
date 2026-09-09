@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dino Ringov",
+      "hasCanvas": true,
+      "bodyTextLen": 116,
+      "bodyTextHash": "26c9972a7691adb1283de00d52378811fbfa309d17894e34cebf705ef3cbe4f5",
+      "bodyTextPrefix": "CRETACEOUS BOXING COMMISSION DINO RINGOV King of the Cretaceous ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dino Ringov",
+      "hasCanvas": true,
+      "bodyTextLen": 116,
+      "bodyTextHash": "26c9972a7691adb1283de00d52378811fbfa309d17894e34cebf705ef3cbe4f5",
+      "bodyTextPrefix": "CRETACEOUS BOXING COMMISSION DINO RINGOV King of the Cretaceous ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
